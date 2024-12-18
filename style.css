@@ -1,0 +1,22 @@
+#product-container{
+  display: flex;
+  justify-content: space-evenly;
+}
+/* .product-card {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 8px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+  }
+  .product-card h2 {
+    margin: 0 0 8px;
+  }
+  .product-card p {
+    margin: 4px 0;
+  } */
+  img{
+    width: 50%;
+
+  }
